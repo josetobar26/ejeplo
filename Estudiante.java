@@ -18,6 +18,8 @@ import javax.persistence.NamedQuery;
 =======
 >>>>>>> c673b678c36561c9d3cece552daecf73c048620d
 
+daskdjaskdjklasjkldasjkdjklasjkljkl
+
 /**
  *
  * @author jose
