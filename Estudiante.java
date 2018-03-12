@@ -13,7 +13,10 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
+<<<<<<< HEAD
 
+=======
+>>>>>>> c673b678c36561c9d3cece552daecf73c048620d
 
 /**
  *
